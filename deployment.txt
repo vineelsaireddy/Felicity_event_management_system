@@ -1,0 +1,11 @@
+Deployment URLs (to be updated after deployment):
+
+Frontend URL: https://your-frontend-url.vercel.app
+Backend API URL: https://your-backend-url.onrender.com/api
+Database: MongoDB Atlas (connection via environment variable)
+
+Instructions:
+1. Deploy frontend to Vercel/Netlify
+2. Deploy backend to Render/Railway
+3. Update this file with production URLs
+4. Ensure all environment variables are set in production
